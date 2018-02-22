@@ -6,12 +6,18 @@ background: linear-gradient(to right, #061161, #780206); /* W3C, IE 10+/ Edge, F
 }
 
 img {
-  height: 800px;
-    width: 50%;
+  height: 750px;
+    width: 90%;
 }
 
 button {
   font-family: "Georgia", Times, serif;
   font-size: 18px;
   align: center;
+}
+
+h1 {
+  font-family: "Georgia", Times, serif;
+  text-align: center;
+  color: #F0F8FF
 }

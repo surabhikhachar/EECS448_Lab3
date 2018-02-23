@@ -1,0 +1,22 @@
+body {
+  background: #780206;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #061161, #780206);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #061161, #780206); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+/*taken from uigradient*/
+}
+
+p {
+  font-family: "Georgia", Times, serif;
+  color: 	#A9A9A9;
+}
+
+h1 {
+  font-family: "Georgia", Times, serif;
+  color: 	#A9A9A9;
+  font-size: 15px;
+}
+
+button {
+  font-family: "Georgia", Times, serif;
+  font-size: 15px;
+}
